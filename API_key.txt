@@ -1,0 +1,9 @@
+pk_504f9ba867e24203802485b662de5f9e
+
+export API_KEY=pk_504f9ba867e24203802485b662de5f9e
+
+
+$env:FlASK_APP = "application"
+$env:API_KEY = "pk_504f9ba867e24203802485b662de5f9e"
+
+$env:FLASK_ENV = "development"
